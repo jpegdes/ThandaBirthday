@@ -294,7 +294,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "https://www.youtube.com/embed/kWfZz-RCKIc?start=8");
+  ifrm.setAttribute("src", "https://www.youtube.com/embed/KFRO-Hq2-Fo");
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';
